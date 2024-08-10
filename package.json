@@ -1,0 +1,25 @@
+{
+  "name": "restaurantpage",
+  "version": "1.0.0",
+  "description": "Odin Project Restaurant Page using webpack and js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielReneGonzalez/RestaurantPage.git"
+  },
+  "author": "Daniel Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielReneGonzalez/RestaurantPage/issues"
+  },
+  "homepage": "https://github.com/DanielReneGonzalez/RestaurantPage#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
